@@ -7,13 +7,11 @@
   <tr>
     <td>
         <a href="https://nanitrobot.github.io/NanitLib/Ukrainian/">
-        <img src="https://avatars.githubusercontent.com/u/122991447?v=4" alt="Centered image" style="display: block; margin: 0 auto;">
         <center> Українською </center>
         </a>
     </td>
     <td>
         <a href="https://nanitrobot.github.io/NanitLib/English/">
-        <img src="https://avatars.githubusercontent.com/u/122991447?v=4" alt="Centered image" style="display: block; margin: 0 auto;">
         <center> In English </center>
         </a>
     </td>
