@@ -5,8 +5,8 @@
 
 Follow this link to find a detailed guide on how to install our library and add ```NANIT``` board support to the Arduino IDE
 
-* <a href="https://nanitrobot.github.io/NanitLib/Ukrainian/"><center> Українською </center></a>
 * <a href="https://nanitrobot.github.io/NanitLib/English/"><center> In English </center></a>
+* <a href="https://nanitrobot.github.io/NanitLib/Ukrainian/"><center> Українською </center></a>
 
 
 
